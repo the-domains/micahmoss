@@ -1,4 +1,4 @@
-name: null
+name: micahmoss
 favicon: null
 layout_spectrum: 0.1509
 typography_spectrum: 0.29482
@@ -19,6 +19,7 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: follow
     item: 6cee48dc-dd8c-4a98-9169-13cff52f28e8
