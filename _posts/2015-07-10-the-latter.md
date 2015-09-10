@@ -1,17 +1,7 @@
 ---
-author:
-  - name: Micah Moss
-    url: 'http://vimeo.com/micahmoss'
-    avatar:
-      src: 'https://i.vimeocdn.com/portrait/6938261_75x75.jpg'
-      width: 75
-      height: 75
-related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon_32.ico'
-  domain: vimeo.com
+isBasedOnUrl: 'https://vimeo.com/28336852'
+inLanguage: en
+starred: false
 keywords:
   - imdb
   - nm2730866
@@ -24,18 +14,30 @@ keywords:
   - miori
   - luma
 description: '"Stop being a wallflower - your neighborhood wants to dance." ***************** [Winner 1st Place: Fiction | 2011 Original iPhone Film Festival] ***************** Micah Moss Writer | Director | Producer | Animator | "D.'
-inLanguage: en
+author:
+  - name: Micah Moss
+    url: 'http://vimeo.com/micahmoss'
+    avatar:
+      src: 'https://i.vimeocdn.com/portrait/6938261_75x75.jpg'
+      width: 75
+      height: 75
+related: []
 app_links:
   - url: 'vimeo://28336852'
     type: ios
     app_store_id: '425194759'
     app_name: Vimeo
-isBasedOnUrl: 'https://vimeo.com/28336852'
 title: The Latter
-datePublished: '2015-07-10T01:29:55.290Z'
-dateModified: '2015-07-10T01:29:55.290Z'
+datePublished: '2015-09-10T20:45:41.352Z'
+dateModified: '2015-09-10T19:39:23.262Z'
 sourcePath: _posts/2015-07-10-the-latter.md
 published: true
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon_32.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
