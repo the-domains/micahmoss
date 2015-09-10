@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[micahmoss]]></title>
         <description><![CDATA[micahmoss]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/micahmoss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Sep 2015 20:45:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Sep 2015 20:46:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/micahmoss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Latter]]></title>
+            <description><![CDATA[<article><h1>The Latter</h1><p>Winner of iPhone Film Festival Fiction Prize</p><img src="http://i.vimeocdn.com/video/188955021_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/28336852</link>
+            <guid isPermaLink="false">a75b5c3f-a390-438e-817a-fa7fcc2d4c72</guid>
+            <pubDate>Thu, 10 Sep 2015 20:45:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Micah]]></title>
             <description><![CDATA[<h1>About Micah</h1>]]></description>
-            <link>undefinedabout-micah/index.html</link>
+            <link>https://thegrid.ai/micahmoss/about-micah/index.html</link>
             <guid isPermaLink="false">0c579cdb-68b9-4974-bd88-eff6c0ddd77b</guid>
             <pubDate>Thu, 10 Sep 2015 20:45:41 GMT</pubDate>
         </item>
