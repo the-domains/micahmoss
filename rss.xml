@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[micahmoss]]></title>
+        <description><![CDATA[micahmoss]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Sep 2015 20:45:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Micah]]></title>
+            <description><![CDATA[<h1>About Micah</h1>]]></description>
+            <link>undefinedabout-micah/index.html</link>
+            <guid isPermaLink="false">0c579cdb-68b9-4974-bd88-eff6c0ddd77b</guid>
+            <pubDate>Thu, 10 Sep 2015 20:45:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
