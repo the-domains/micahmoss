@@ -24,7 +24,7 @@ color:
   brandStrength: 0.125
   lightness: 0.75
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose:
   - name: follow
     item: 6cee48dc-dd8c-4a98-9169-13cff52f28e8
